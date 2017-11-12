@@ -5,4 +5,5 @@ function printBadges(arrayNames){
   arrayNames[i] //represent the element
   console.log(`Welcome ${arrayNames[i]}! You are employee #${i+1}.`)
   }
+  return arrayNames()
 }
