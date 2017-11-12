@@ -1,6 +1,5 @@
 // Code your solutions in this file
 function printBadges(arrayNames){
-  arrayNames = ["Avi", "Grace", "Alan"]
 
 for(let i = 0; i < arrayNames.length; i++){
   i // represent the indexes
